@@ -1,0 +1,13 @@
+desktop.ini
+data/
+data
+.ipynb_checkpoints
+*workspace*
+.DS_Store
+__pycache__
+.spyproject
+.Rproj.user
+.Rdata
+.Rhistory
+.pylint*
+.mypy_cache
